@@ -13,7 +13,6 @@
  
  🌱 I’m currently learning **Web Technologies**
 
-💬 Ask me about **anything [here](https://github.com/bytesbybhanu/bytesbybhanu/issues)**
 
 ⚡ Fun fact: **When I'm not coding, you can find me lifting heavy circles at the gym. Lifting and programming are my two greatest passions!**
 
