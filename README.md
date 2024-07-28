@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhanu+Prakash!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Cyber Security Enthusiast from India</h3>
 
 <br/>
 
 <div align="center">
  
  
- 🌱 I’m currently learning **Web Technologies**
+ 🌱 I’m currently exploring **Cyber Security Realm**
 
 
 ⚡ Fun fact: **When I'm not coding, you can find me lifting heavy circles at the gym. Lifting and programming are my two greatest passions!**
