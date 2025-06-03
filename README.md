@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently exploring ** .NET Realm**
+ //🌱 I’m currently exploring ** .NET Realm*
 
 
 ⚡ Fun fact: **When I'm not coding, you can find me lifting heavy circles at the gym. Lifting and programming are my two greatest passions!**
